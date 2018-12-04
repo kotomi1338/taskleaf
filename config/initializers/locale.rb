@@ -1,1 +1,0 @@
-Ralis.applecation.config.i18n.dafault_locale = :ja
